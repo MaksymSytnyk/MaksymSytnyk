@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MaksymSytnyk
+- 👀 I’m interested in android developing 
+- 🌱 I’m currently learning the arm assembly language
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I use Arch, btw
